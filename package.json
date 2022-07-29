@@ -1,10 +1,11 @@
 {
 	"name": "romancow.github.io",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "Sean Wilson's résumé",
 	"scripts": {
 		"validate": "resumed validate resume/resume.json",
-		"render": "resumed render resume/resume.json -o dist/index.html"
+		"render": "resumed render resume/resume.json -o docs/index.html",
+		"version": "npm run render && git add -A docs"
 	},
 	"repository": "git://github.com/romancow/romancow.github.io.git",
 	"keywords": [
