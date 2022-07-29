@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Sean Wilson's résumé",
 	"scripts": {
-		"validate": "resumed validate https://gist.githubusercontent.com/romancow/e37b9c031c0924bc67a43c1273010c65/raw/d3235c7f9ad44f723e28f57aad39f19f56157225/resume.json"
+		"validate": "resumed validate resume/resume.json"
 	},
 	"repository": "git://github.com/romancow/romancow.github.io.git",
 	"keywords": [
