@@ -1,0 +1,32 @@
+{
+	"name": "romancow.github.io",
+	"version": "1.0.0",
+	"description": "Sean Wilson's résumé",
+	"scripts": {
+		"validate": "resumed validate https://gist.githubusercontent.com/romancow/e37b9c031c0924bc67a43c1273010c65/raw/d3235c7f9ad44f723e28f57aad39f19f56157225/resume.json"
+	},
+	"repository": "git://github.com/romancow/romancow.github.io.git",
+	"keywords": [
+		"résumé",
+		"javascript",
+		"typescript",
+		"web",
+		"hire",
+		"job",
+		"JSONResume"
+	],
+	"author": {
+		"name": "Sean Wilson",
+		"email": "contact@seanwilson.dev",
+		"url": "http://seanwilson.dev/"
+	},
+	"license": "UNLICENSED",
+	"bugs": {
+		"url": "https://github.com/romancow/romancow.github.io/issues"
+	},
+	"homepage": "https://github.com/romancow/romancow.github.io#readme",
+	"dependencies": {
+		"@romancow/jsonresume-theme-swilson": "^1.0.0",
+		"resumed": "^1.0.3"
+	}
+}
