@@ -28,7 +28,7 @@
 	},
 	"homepage": "https://github.com/romancow/romancow.github.io#readme",
 	"dependencies": {
-		"@romancow/jsonresume-theme-swilson": "^1.0.1",
+		"@romancow/jsonresume-theme-swilson": "^1.0.2",
 		"resumed": "^1.0.3"
 	}
 }
