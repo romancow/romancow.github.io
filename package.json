@@ -1,6 +1,6 @@
 {
 	"name": "romancow.github.io",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Sean Wilson's résumé",
 	"scripts": {
 		"validate": "resumed validate resume/resume.json",
