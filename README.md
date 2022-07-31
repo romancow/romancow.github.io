@@ -15,10 +15,9 @@ Since the résumé JSON is a separate gist, it also works with the JSON Resume [
 <!-- GitHub Action to trigger update when gist updated -->
 
 
-### Relevant Links
+### Links
 - [Résumé page](https://seanwilson.dev)
-- [Résumé JSON gist](https://gist.github.com/romancow/e37b9c031c0924bc67a43c1273010c65)
-- [Custom JSON Resume theme](https://github.com/romancow/jsonresume-theme-swilson)
-- [On the JSON Resume registry](https://registry.jsonresume.org/romancow)
+- [Custom JSON Resume theme](https://github.com/romancow/jsonresume-theme-swilson/#readme)
+- [Tone Synth](https://seanwilson.dev/tone-synth/#readme) - A simple web synthesizer using Tone.js
 
 Any questions? [Email me](mailto:contact@seanwilson.dev).
